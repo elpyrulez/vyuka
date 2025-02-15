@@ -1,5 +1,7 @@
 # Python - Základy programování
 
+Hnědě a světlě zeleně jsou komentáře, pokud začínaji třemi " nebo # je to komentář, klidně na víc řádků
+
 ---
 
 ## 1. Proměnné a vstupy
